@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/folkspets/static/css/main.8b405784.chunk.css",
+    "main.js": "/folkspets/static/js/main.d296de41.chunk.js",
+    "main.js.map": "/folkspets/static/js/main.d296de41.chunk.js.map",
+    "runtime-main.js": "/folkspets/static/js/runtime-main.0118eeec.js",
+    "runtime-main.js.map": "/folkspets/static/js/runtime-main.0118eeec.js.map",
+    "static/js/2.0890692c.chunk.js": "/folkspets/static/js/2.0890692c.chunk.js",
+    "static/js/2.0890692c.chunk.js.map": "/folkspets/static/js/2.0890692c.chunk.js.map",
+    "index.html": "/folkspets/index.html",
+    "static/css/main.8b405784.chunk.css.map": "/folkspets/static/css/main.8b405784.chunk.css.map",
+    "static/js/2.0890692c.chunk.js.LICENSE.txt": "/folkspets/static/js/2.0890692c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0118eeec.js",
+    "static/js/2.0890692c.chunk.js",
+    "static/css/main.8b405784.chunk.css",
+    "static/js/main.d296de41.chunk.js"
+  ]
+}
